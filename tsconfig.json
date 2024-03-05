@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "outDir": "public/dist" /* Specify an output folder for all emitted files. */
+  }
+}
